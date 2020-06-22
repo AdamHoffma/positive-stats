@@ -12,11 +12,11 @@ function App() {
       <p className="Jai">Jai McNeal: 438 pitches thrown, 57% strikes, Weak hits 68%, 4.46 FIP, doesn't get down on teammates</p>
       <p className="Jacey">Jacey Lane: 15 PA, 2 ks, 2 Doubles, Leads team in ROE, Clutch, Most positive person I've met in my life</p>
       <p className="Maggie">Maggie Philpott: 50% strikes, 7.9 FIP,  Doesn't get distracted</p>
-      <p className="Roxie">Roxie Albert: Gives it her all every game</p>
-      <p className="Avery">Avery Coover: Burning desire to win</p>
-      <p className="Katie">Katie Duncan: Great positive chatter</p>
-      <p className="Charlotte">Charlotte Commons: Keeps her head in the game</p>
-      <p className="Caitlin">Caitlin Anderson: Competitve fire</p>
+      <p className="Roxie">Roxie Albert: 17 PA, 7 Rs scored, 5 Walks, textbook baserunning, Gives it her all every game</p>
+      <p className="Avery">Avery Coover: Threw out runner at third, 4 walks, always focused on getting better, Burning desire to win</p>
+      <p className="Katie">Katie Duncan: great bunts, leads the team with 3 sacrafice bunts, Great positive chatter</p>
+      <p className="Charlotte">Charlotte Commons: 2 absolutely crushed doubles, blocking ability has greatly increased, Keeps her head in the game</p>
+      <p className="Caitlin">Caitlin Anderson: .750 babip, 6 Rs, 8 sbs, Competitve fire</p>
     </div>
   );
 }
